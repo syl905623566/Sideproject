@@ -1,0 +1,15 @@
+C:\Sideproject\FirstDay\FirstDay\FirstDay\bin\Debug\net6.0\FirstDay.exe
+C:\Sideproject\FirstDay\FirstDay\FirstDay\bin\Debug\net6.0\FirstDay.deps.json
+C:\Sideproject\FirstDay\FirstDay\FirstDay\bin\Debug\net6.0\FirstDay.runtimeconfig.json
+C:\Sideproject\FirstDay\FirstDay\FirstDay\bin\Debug\net6.0\FirstDay.dll
+C:\Sideproject\FirstDay\FirstDay\FirstDay\bin\Debug\net6.0\ref\FirstDay.dll
+C:\Sideproject\FirstDay\FirstDay\FirstDay\bin\Debug\net6.0\FirstDay.pdb
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.csproj.AssemblyReference.cache
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.AssemblyInfoInputs.cache
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.AssemblyInfo.cs
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.csproj.CoreCompileInputs.cache
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.dll
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\ref\FirstDay.dll
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.pdb
+C:\Sideproject\FirstDay\FirstDay\FirstDay\obj\Debug\net6.0\FirstDay.genruntimeconfig.cache
